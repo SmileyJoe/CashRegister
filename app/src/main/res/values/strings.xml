@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CashRegister</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_new">New</string>
+    <string name="action_pay">Pay</string>
+</resources>
